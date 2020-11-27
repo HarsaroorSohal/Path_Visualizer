@@ -26,3 +26,4 @@ OR Run the Path.py script.
 | D  | Run Dijkstra  |
 | R  | Generate A Randomized Maze  |
 | C  | Clear All  |
+| U  | Undo |
